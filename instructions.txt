@@ -1,0 +1,5 @@
+1. run backend server https://github.com/stranger7771981/server_api_hello
+    sudo go run ./main.go
+
+2. run ./cli localhost/api/hello Andrey 
+   execute: Hello, Andrey!
